@@ -1,0 +1,12 @@
+.nav_link {
+  padding: 5px;
+  display: flex;
+}
+.list_item {
+  margin: 10px;
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+  list-style: none;
+}
